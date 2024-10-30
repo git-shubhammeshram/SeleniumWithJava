@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="poi-bin-5.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3" />
+      <root url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary" />
+      <root url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3/lib" />
+      <root url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3/auxiliary" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SoftwereTesting/poi-bin-5.2.3-20220909/poi-bin-5.2.3/ooxml-lib" recursive="false" />
+  </library>
+</component>
